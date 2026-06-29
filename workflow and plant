@@ -34,16 +34,21 @@ WEB features:
 
 PlantDashboard/
 │
-├── index.html
-├── style.css
-├── script.js
-├── firebase.js
+├── index.html          ← Dashboard
+├── add-plant.html      ← Add a new plant
+├── plant.html          ← Plant details
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── firebase.js
+│   ├── dashboard.js
+│   ├── addPlant.js
+│   └── plant.js
 │
 ├── assets/
 │   ├── logo.png
-│   ├── background.jpg
-│   └── icons/
+│   └── images/
 │
-├── README.md
-│
-└── .gitignore
+└── README.md
