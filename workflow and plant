@@ -52,3 +52,25 @@ PlantDashboard/
 │   └── images/
 │
 └── README.md
+
+
+         THE DESIGN(chatgpt)
+┌────────────────────────────────────────────┐
+│ 🌱 Smart Plant Watering System             │
+│ Manage all your plants in one place.       │
+│                            [+ Add Plant]   │
+├────────────────────────────────────────────┤
+│ 🪴 Aloe Vera                              │
+│ 🟢 Healthy                                │
+│ Soil Moisture: 68%                        │
+│ Temperature: 29°C                         │
+│ Humidity: 73%                             │
+│ Water Tank: 80%                           │
+│ Battery: 7.8V                             │
+│ Pump: OFF                                 │
+│                     [ View Details ]       │
+├────────────────────────────────────────────┤
+│ 🪴 Cactus                                 │
+│ 🟡 Needs Water                            │
+│ ...                                       │
+└────────────────────────────────────────────┘
