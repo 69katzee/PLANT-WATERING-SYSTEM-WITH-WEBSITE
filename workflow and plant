@@ -1,0 +1,44 @@
+PLANT WATERING SYSTEM web plan and flow
+
+
+frontend:
+        HTML
+        CSS
+        JavaScript
+
+backend:
+        Firebase Realtime Database
+
+hosting:
+        GitHub Pages
+
+ESP32:
+        Arduino IDE (C++/C#)
+        WiFi (pass, user), ESP32 IP
+        Firebase Client library
+
+
+
+
+WEB features:
+        live sensor update(every 10 minutes)
+        Mobile friendly GUI 
+        Dark or light mode
+        Users can add their plant or remove their plant info
+        low water alert
+        plant health status
+        battery indicator
+        manual/autoset control
+        user subsrcription
+
+
+PlantDashboard/
+│
+├── index.html
+├── style.css
+├── script.js
+├── firebase.js
+├── assets/
+│   ├── logo.png
+│   └── icons/
+└── README.md
