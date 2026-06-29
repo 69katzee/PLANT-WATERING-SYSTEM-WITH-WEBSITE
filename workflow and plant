@@ -38,7 +38,12 @@ PlantDashboard/
 ├── style.css
 ├── script.js
 ├── firebase.js
+│
 ├── assets/
 │   ├── logo.png
+│   ├── background.jpg
 │   └── icons/
-└── README.md
+│
+├── README.md
+│
+└── .gitignore
